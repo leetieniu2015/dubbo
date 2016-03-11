@@ -1,7 +1,7 @@
-package org.leejun.dubbo;
+package org.leetieniu.dubbo;
 
 
-import org.leejun.dubbo.service.DemoService;
+import org.leetieniu.dubbo.service.DemoService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
  
 public class Consumer {

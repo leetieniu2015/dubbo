@@ -1,6 +1,6 @@
-package org.leejun.dubbo.service.provider;
+package org.leetieniu.dubbo.service.provider;
 
-import org.leejun.dubbo.service.DemoService;
+import org.leetieniu.dubbo.service.DemoService;
 
 public class DemoServiceImpl implements DemoService {
 

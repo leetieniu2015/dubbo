@@ -1,4 +1,4 @@
-package org.leejun.dubbo;
+package org.leetieniu.dubbo;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
  
